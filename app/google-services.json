@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "166729716265",
+    "firebase_url": "https://parkdemo-793d8.firebaseio.com",
+    "project_id": "parkdemo-793d8",
+    "storage_bucket": "parkdemo-793d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166729716265:android:74e53e31ffed0049",
+        "android_client_info": {
+          "package_name": "com.sanved.parkdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166729716265-ao7gmv1gh5emf0d5rg9l650nb1i251u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvhIyIgavvMKzyxjuPIuno998dG5qw5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
